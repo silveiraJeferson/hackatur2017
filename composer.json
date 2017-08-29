@@ -1,0 +1,14 @@
+{
+    "name": "Turismo",
+    "description": "Breve descrição do que a aplicação se propoe a fazer",
+    "authors": [
+        {
+            "name": "Jeferson Silveira",
+            "email": "jeferls1982@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.2.8",
+        "facebook/graph-sdk": "^5.6"
+    }
+}

@@ -1,0 +1,87 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 26/08/2017, 01:56:18
+    Author     : jeferson
+*/
+
+.rolagem { 
+    overflow-x: hidden;
+    overflow-y: scroll;
+    height: 300px;
+    white-space:nowrap;
+}
+
+.rodape {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 100%;
+    background-color: black;
+    color: white;
+}
+
+.img_turismo{
+    height: 300px;
+}
+.titulo_img{
+    background-color: black;
+    opacity: 0.5;
+}
+.img_eventos{
+    max-height: 100px;
+
+}
+.card_eventos{
+    height: 200px
+}
+.full{
+    width: 500px;
+    height: 400px;
+
+}
+.thumbnail{
+    width: 100px;
+}
+
+
+
+.div_esquerda{
+    
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
